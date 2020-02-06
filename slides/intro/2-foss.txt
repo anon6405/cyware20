@@ -1,0 +1,11 @@
+(FREE AND) OPEN SOURCE?
+
+- public!
+- viewed, modified & redistributed (*)
+- can be audited by anyone
+    * bug fixes
+    * security flaws
+- FOSS
+    * respects users freedoms
+
+[*] depending on the license :)

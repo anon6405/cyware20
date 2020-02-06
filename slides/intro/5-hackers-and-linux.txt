@@ -1,0 +1,6 @@
+ HACKERS <3 LINUX
+
+- free & open source
+- hackable!
+- modular
+- distros for ${ITA}everything${RST}

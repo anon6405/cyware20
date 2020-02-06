@@ -1,0 +1,13 @@
+       Stack
++----------------+
+|   addr_of_buf  |  <--- saved ret
++----------------+
+|      AAAA      |  <--- saved ebp
++----------------+
+|    shellcode   |
+|    shellcode   |
+|    nops nops   |
+|    nops nops   |
+|    nops nops   |
+|    nops nops   |
++----------------+

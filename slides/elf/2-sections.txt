@@ -1,0 +1,8 @@
+SECTIONS IN AN ELF FILE                      
+                                              
+  ${CYN}.text${RST}   - program instructions
+  ${CYN}.data${RST}   - initialized data
+  ${CYN}.bss${RST}    - uninitialized data
+  ${CYN}.rodata${RST} - read-only data
+  ${CYN}.got${RST}    - global offset table
+  ${CYN}.plt${RST}    - procedure linkage table

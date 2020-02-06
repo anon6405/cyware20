@@ -1,0 +1,5 @@
+PGP / GPG
+
+- Pretty Good Privacy
+- GnuPG
+- public and private keys

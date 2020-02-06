@@ -1,0 +1,14 @@
+ FINGERPRINTS
+
+- a short sequence of bytes used to identify a longer public key.
+- can be used to verify the identity of a person
+
+For example:
+
+1. A publishes public key on the Internet
+2. B wants to confirm if that pubkey is actually A's
+3. B asks A for fingerprint
+4. B compares fingerprint to pubkey
+
+Exchanging and comparing values is much easier for short fingerprints
+than long public keys.

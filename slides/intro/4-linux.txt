@@ -1,0 +1,7 @@
+LINUX?
+
+- 1991 by Linus Torvalds
+- a kernel
+    * interfaces with hardware
+- build operating systems on top
+- free and open source

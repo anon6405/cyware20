@@ -1,0 +1,7 @@
+${BLD}${PUR}Setup${RST}${RST}
+
+- ${BLK}https://github.com/anon6405/cyware20${RST}
+- Check if you have gcc, gdb installed
+- Install ${RED}‘gcc-multilib’${RST} using your package manager
+- ${RED}'cd'${RST} into the cloned directory
+- ./build.sh

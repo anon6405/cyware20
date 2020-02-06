@@ -1,0 +1,7 @@
+ FILESYSTEMS
+
+- controls how data is stored and retrived from disk
+- organization
+    * metadata
+- ext{2,3,4}, btrfs, zfs, ntfs, fat{16,32}
+- ${BLD}everything${RST} is a file!

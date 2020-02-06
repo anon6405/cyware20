@@ -1,0 +1,15 @@
+ASYMMETRIC ENCRYPTION
+
+        _A_                           _B_
+         |                             |
+        / \\                           / \\
+       ${PUR}ALICE                          BOB${RST}
+  ${CYN}O--m      O--m                O--m      O--m${RST}
+  private   public     /------  public    private -----
+                      /                               /
+    PLAINTEXT        /              PLAINTEXT        /
+        |           /                   ^           /
+        v          /                    |          /
+    CYPHERTEXT <__/ (${RED}encrypt${RST})       CYPHERTEXT <__/ (${GRN}decrypt${RST})
+        V                               ^
+        |_______________________________|

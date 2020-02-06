@@ -1,0 +1,9 @@
+${BLD}${PUR}A quick demo of Buffer Overflows${RST}${RST}
+
+
+${BLD}What gives people feeling of power${RST}
+${ITA}${BLK}Money${RST}${RST}           | ====
+${ITA}${BLK}Status${RST}${RST}          | =========
+${ITA}${BLK}Popping shells${RST}${RST}  | =====================    
+
+                                        ${FLS}${ITA}meme${RST}${RST}

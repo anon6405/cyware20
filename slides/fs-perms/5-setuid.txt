@@ -1,0 +1,8 @@
+ SETUID BIT
+
+- setuid and setgid
+- allow users to run an executable with perms of the owner or group
+- example: /bin/ping
+
+See for yourself!
+$ ls -la /bin/ping

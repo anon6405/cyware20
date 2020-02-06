@@ -1,0 +1,4 @@
+ PROCEDURE LINKAGE TABLE
+
+- similar to GOT
+- holds offsets to global ${YLW}functions${RST}

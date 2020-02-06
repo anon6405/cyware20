@@ -1,0 +1,5 @@
+ PERMISSIONS MODEL
+
+${CYN}r${RST}ead
+${CYN}w${RST}rite
+e${CYN}x${RST}ecute

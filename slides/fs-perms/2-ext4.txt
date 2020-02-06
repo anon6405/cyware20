@@ -1,0 +1,7 @@
+ EXT4
+
+- primary filesystem on Linux-based systems
+- journaling
+    * keeps track of changes
+    * improves reliability
+- ... beyond the scope of this discussion

@@ -1,0 +1,8 @@
+ PERMISSIONS MODEL
+
+Consider the file 'sample.png'.
+
+$ ls -l sample.png
+
+${BLD}owner  user   others${RST}
+rwx    r--    r--     sample.png

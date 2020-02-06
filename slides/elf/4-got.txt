@@ -1,0 +1,5 @@
+ GLOBAL OFFSET TABLE
+
+- updated by the linker
+- holds locations to offsets of ${YLW}variables${RST} in dynamic libs
+

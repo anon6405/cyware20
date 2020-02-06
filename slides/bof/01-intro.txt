@@ -1,0 +1,8 @@
+                ${BLD}${PUR}Buffer Overflow Attacks${RST}${RST}
+
+            Smashing the stack for fun & pro...
+            nah for educational purposes
+
+                                    -${ITA}${BLK}Cyware20${RST}${RST}
+
+

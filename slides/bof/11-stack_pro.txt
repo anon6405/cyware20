@@ -1,0 +1,12 @@
+${BLD}${PUR}Stack protections in modern systems${RST}${RST}
+
+- ${ITA}Canaries${RST}
+    * Stack smashing protections(SSP) ${BLK}[GCC level]${RST}
+    * On by default since gcc 4.1
+    * ${RED}-fno-stack-protector${RST} disables SSP
+- ${ITA}DEP/NX${RST}
+    * PaX ${BLK}[kernel level]${RST}
+    * ${RED}-z execstack${RST} disables NX
+- ${ITA}ASLR${RST}
+    * /proc/sys/kernel/randomize_va_space handles ASLR systemwide
+    * ${RED}echo 0 | sudo tee /proc/sys/kernel/randomize_va_space${RST} - temperorily disables ASLR

@@ -1,0 +1,6 @@
+ AN OVERVIEW OF ${BLD}ELF${RST}
+
+- Executable and Linkable Format
+- Memory mapped
+- Different sections
+- Like an ${CYN}.exe${RST} in Windows

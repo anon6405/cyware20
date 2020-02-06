@@ -1,0 +1,17 @@
+THE chmod & chown COMMANDS
+
+- used to change permissions & owner
+- ${ITA}change mode${RST} & ${ITA}change owner${RST}
+
+        +---+-----+
+        | # | rwx |
+        +---+-----+
+        | 7 | rwx |
+        | 6 | rw- |
+        | 5 | r-x |
+        | 4 | r-- |
+        | 3 | -wx |
+        | 2 | -w- |
+        | 1 | --x |
+        | 0 | --- |
+        +---+-----+

@@ -1,0 +1,9 @@
+                ${BLD}${PUR}What is BOF attack 
+                        & 
+                  how it works?${RST}${RST}
+
+
+        A Buffer Overflow is an anomaly where 
+        a program, while writing data to a buffer, 
+        overruns the buffer’s boundary and 
+        overwrites adjacent memory locations
