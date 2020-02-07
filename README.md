@@ -2,5 +2,5 @@
 > Stuff of sector443
 
 ```
-./built.sh
+./build.sh
 ```
