@@ -1,0 +1,6 @@
+- ${BLD}${BLK}[p]rint${RST}${RST} <\$register or function>
+  * print the value of register or function
+
+- ${BLD}${BLK}[x]/(number)(format)${RST}${RST} <address>
+   * examines the data located in the memory at address
+

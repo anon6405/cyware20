@@ -1,0 +1,7 @@
+${BLD}${PUR}GDB COMMANDS${RST}${RST}
+
+- ${BLD}${BLK}help${RST}${RST} <command>
+- ${BLD}${BLK}[b]reak${RST}${RST} <function name or *memory address>
+  * sets a breakpoint on either function or the memory address located at the particular addr
+- ${BLD}${BLK}[d]elete${RST}${RST} <breakpoint>
+  * Removes a breakpoint. Use ${BLD}i b${RST} for breakpoint info 

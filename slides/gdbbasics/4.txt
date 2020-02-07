@@ -1,0 +1,12 @@
+- ${BLD}${BLK}info${RST}${RST} (about, which can be as follows)	
+
+  * ${RED}[f]rame${RST} - list about the current frame stack	
+  * ${RED}[s]tack${RST} - list the stack backtrace, function calls that have been made
+  * ${RED}[r]egisters${RST} - list the contents of each registers
+  * ${RED}[b]reakpoints${RST} - list the breakpoints
+  * ${RED}[fu]nctions${RST} - list all the functions with addresses
+  * ${RED}[p]roc${RST} - list additional information about the processes
+  * ${RED}[map]pings${RST} - list of memory regions mapped by specific processes
+
+- ${BLD}${BLK}[disas]semble${RST}${RST} <function name>
+   * disassemble a specified section of memory

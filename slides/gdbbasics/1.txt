@@ -1,0 +1,3 @@
+${BLD}${PUR}GDB BASICS${RST}${RST}
+
+A walkthrough with example

@@ -1,0 +1,10 @@
+- ${BLD}${BLK}[r]un${RST}${RST}(arg1, arg2)
+	* runs executable with arguments
+- ${BLD}${BLK}[c]ontinue${RST}${RST}
+	* resumes program execution until next breakpoint 
+- ${BLD}${BLK}[s]tep${RST}${RST}
+	* step program until it reaches a different source line
+- ${BLD}${BLK}[s]tep[i]${RST}${RST}
+	* steps through a single x86 instruction
+- ${BLD}${BLK}[ni]step${RST}${RST}
+	* steps without entering function calls
