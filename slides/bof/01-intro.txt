@@ -3,6 +3,5 @@
             Smashing the stack for fun & pro...
             nah for educational purposes
 
-                                    -${ITA}${BLK}Cyware20${RST}${RST}
 
 

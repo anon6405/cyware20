@@ -1,0 +1,15 @@
+${BLD}Process memory region${RST}
+
+/------------------\  lower
+|                  |  memory
+|       Text       |  addresses
+|                  |
+|------------------|
+|   (Initialized)  |
+|        Data      |
+|  (Uninitialized) |
+|------------------|
+|                  |
+|       Stack      |  higher
+|                  |  memory
+\------------------/  addresses

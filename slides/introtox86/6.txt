@@ -1,0 +1,6 @@
+bottom of                                                            top of
+memory                                                               memory           
+	      buffer2     buffer1  sfp    ret   a     b     c
+<------   [            ][        ][    ][    ][    ][    ][    ]
+top of                                                            bottom of
+stack                                                                 stack

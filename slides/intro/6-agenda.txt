@@ -1,6 +1,6 @@
  AGENDA FOR TODAY
 
-- Filesystem, permissions ${RED}Devansh${RST}
+- Filesystem, permissions ${RED}Anirudh${RST}
 - ELF ${RED}Anirudh${RST}
 - [DEMO] Buffer overflows ${RED}Shubham${RST}
 - gdb basics and reverse engineering ${RED}Devansh${RST}
@@ -8,4 +8,6 @@
 
 -- ${BLD} break ${RST} --
 
-- ...
+- Applied Cryptography ${RED}Swastik${RST}
+- Intro to GPG ${RED}Anirudh${RST}
+- Steganography ${RED}Pratyush${RST}

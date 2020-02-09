@@ -1,0 +1,12 @@
+${BLD}Registers${RST}
+- A special high speed storage area in the processor
+- General Purpose:
+	* 16 bit ax, bx, cx, dx
+	* 32 bit eax, ebx, ecx, edx 
+	* 64 bit rax, rbx, rcx, rdx
+- Pointer registers
+	* *SP, *BP, *IP
+- Index registers
+	* *SI, *DI
+- Flags
+

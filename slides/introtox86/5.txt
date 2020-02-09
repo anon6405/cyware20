@@ -1,0 +1,8 @@
+Stack Operations
+
+- push operation
+- pop opertaion
+
+Pointers
+- stack pointer (SP)
+- frame pointer/local base pointer (FP/LSB)

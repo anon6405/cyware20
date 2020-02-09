@@ -1,0 +1,21 @@
+${BLD}Instructions${RST}
+
+AT&T (src, dest)
+
+- push/pop %rbp
+- mov \$0xa
+- add/sub \$0xa, %rax
+- call 0x680	
+- jle/jne/jmp/je 0x7fa
+- lea 0xe3(%rip), %rdi
+- ret
+
+Intel (dest, src)
+
+- push/pop rbp
+- mov edi, 0xa
+- add/sub rax, 0xa
+- call 0x680
+- jle/jne/jmp/je 0x7fa
+- lea rdi, [rip + 0xe3]
+- ret

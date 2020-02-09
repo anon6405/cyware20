@@ -1,0 +1,4 @@
+${BLD}Basics of x86 assembly${RST}
+- Registers
+- Instructions
+- Stack
